@@ -1,1 +1,2 @@
-# CS780-OBELIX-Shubham-Kumar-251110069
+# CS780 Capstone Project - OBELIX: the Warehouse Robot
+
